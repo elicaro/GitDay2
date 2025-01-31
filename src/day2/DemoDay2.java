@@ -12,11 +12,11 @@ String firstName = "Eliana";
 		System.out.println("Tolosa"); 
 		
 		
-	
+	int x = 12;
+	int y = 10;
+
+	System.out.println(a+b);
 		
-	}
-	
-	
-	
+	}	
 	
 }
