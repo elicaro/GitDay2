@@ -15,7 +15,7 @@ String firstName = "Eliana";
 	int x = 12;
 	int y = 10;
 
-	System.out.println(a+b);
+	System.out.println(x+y);
 		
 	}	
 	
