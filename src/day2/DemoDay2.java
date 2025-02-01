@@ -18,5 +18,29 @@ String firstName = "Eliana";
 	System.out.println(x+y);
 		
 	}	
+	public void add (int a, int b) {
+		System.out.println(a + b);
+}
+	
+	// subtract method
+	
+	public void subtract (int a, int b) {
+		System.out.println(a - b);	
+	}
+	
+	// divide method
+	
+	public void divide (int a, int b) {
+		System.out.println(a / b);
+	}
+	
+	
+	public void getinfo (String lastName, int age) {
+		
+		System.out.println(lastName);
+		System.out.println(age);
+		
+	}
+	
 	
 }
